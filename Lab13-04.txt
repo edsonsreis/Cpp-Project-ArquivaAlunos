@@ -1,0 +1,21 @@
+10
+jose lopes
+20170100 7.0
+felipe vidal
+20170120 9.0
+gabriel medeiros
+20170105 3.0
+maria bezerra
+20170179 10.0
+marilia garcia
+20170188 10.0
+marcio tavares
+20170181 5.0
+mauro carvalho
+20170155 3.0
+marta andrade
+20170149 9.5
+janaina vasconcelos
+20170199 9.0
+virginia de souza
+20170170 8.0
